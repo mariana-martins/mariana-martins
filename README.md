@@ -11,7 +11,7 @@ Hi! My name is Mariana. I live in a nice city, called Christchurch! I am a big f
 
 ### Connect with me:
 
-[<img align="left" alt="mariana-martins.github.io" src="images/internet.png" />][website]]
+[<img align="left" alt="mariana-martins.github.io" src="images/internet.png" />][website]
 [<img align="left" alt="Mariana Martins Menezes | LinkedIn" src="images/linkedin.png" />][linkedin]
 
 [website]: https://mariana-martins.github.io/

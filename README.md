@@ -20,6 +20,26 @@ My background in History is my "secret weapon." It gives me a unique lens for te
 
 - 🧘‍♀️ **Zen Mode**: Tai Chi! It’s my favorite way to slow down and find my "zen" when life gets a little too fast.
 </details>
+
+### Say Hi!
+
+<img align="center" src="images/Globe Icon.svg" alt="Visit my website" width="24" height="24" />
+<a href="https://mariana-martins.github.io/">
+  <big>Visit my website</big>
+</a>
+<br>
+<br>
+<img align="center" src="images/Icons from Lucide.svg" alt="Send me an email" width="24" height="24" />
+<a href="mailto:marianamartinsmenezes@gmail.com">
+  <big>Send me an email</big>
+</a>
+<br>
+<br>
+<img align="center" src="images/At Sign Icon.svg" alt="Connect with me on LinkedIn" width="24" height="24" />
+<a href="https://www.linkedin.com/in/marianamenezes/">
+  <big>Connect with me on LinkedIn</big>
+</a>
+<br>
 <br>
 
 ---
@@ -35,22 +55,3 @@ My background in History is my "secret weapon." It gives me a unique lens for te
 </p>
 
 ---
-
-## Say Hi!
-
-<a href="https://mariana-martins.github.io/">
-  <img align="center" src="images/Globe Icon.svg" alt="Visit my website" width="24" height="24" />
-  <big>Visit my website</big>
-</a>
-<br>
-<br>
-<a href="mailto:marianamartinsmenezes@gmail.com">
-  <img align="center" src="images/Icons from Lucide.svg" alt="Send me an email" width="24" height="24" />
-  <big>Send me an email</big>
-</a>
-<br>
-<br>
-<a href="https://www.linkedin.com/in/marianamenezes/">
-  <img align="center" src="images/At Sign Icon.svg" alt="Connect with me on LinkedIn" width="24" height="24" />
-  <big>Connect with me on LinkedIn</big>
-</a>

@@ -1,18 +1,56 @@
-# Hello, I am Mariana! 🙋‍♀️
+<img align="center" alt="Mariana Martins Menezes | Frontend Developer" src="https://github.com/mariana-martins/mariana-martins/raw/master/images/logo2.png" />
 
-[<img align="center" alt="Mariana Martins Menezes | Frontend Developer" src="https://github.com/mariana-martins/mariana-martins/raw/master/images/logo.png" />][website]
+# Hello, I am Mari! 🙋‍♀️
 
-Hi! My name is Mariana. I live in a nice city, called Christchurch! I am a big fan of Lord of the Rings! What other reason is there to live in New Zealand? I am joking, this country is really beautiful and I love living here. My hobbies include reading adventure and dystopian books, building something using Lego, watching some NFL game and listening to music. I cannot live without music. Devotion and responsibility are some characteristics of my personality. I believe in an easily accessible Web for everybody and in the future, I would like to be part of the creation of an inclusive web using my Front-end knowledge.
+I am a Frontend Engineer with more than 5 years of experience, based in Melbourne, Australia. I'm specialized in building inclusive, web applications with a focus on React, TypeScript, and modern CSS architecture.
 
-- 🦄 I’m currently working at [Remote](https://remote.com/)!
-- 👩‍💻 I’m currently learning about Design, Typescript, React, and other Frontend stuff! 😉
-- 🥅 2021 Goals: Re-design and implement a new portfolio
-- ⚡ Fun fact: I have a collection of action figure of Lord Of The Rings
+My background in History is my "secret weapon." It gives me a unique lens for technical documentation and a deep-seated empathy for the human stories behind the screens. I don't just build UI: I build sustainable, accessible systems designed to stand the test of time. My goal is to translate complex logic into intuitive journeys, anticipating a user's needs just as a teacher anticipates a student's question. I’m here to ensure that everyone, regardless of how they navigate the web, feels empowered and guided.
 
-### Connect with me:
+<details>
+<summary><b>Beyond the Code</b></summary>
+<br>
 
-[<img align="left" alt="mariana-martins.github.io" src="images/internet.png" />][website]
-[<img align="left" alt="Mariana Martins Menezes | LinkedIn" src="images/linkedin.png" />][linkedin]
+- 🗺️ **Global Side Quests**: I've lived in three countries! Brazil, New Zealand, and now Australia. I’m basically collecting countries like side quests and XP.
 
-[website]: https://mariana-martins.github.io/
-[linkedin]: https://www.linkedin.com/in/marianamenezes/
+- 🖊️ **Analog Vibe**: I love collecting Gel pens! I have one for every mood, occasion, and minor life crisis.
+
+- 🧱 **Brick by Brick**: I love LEGO! My shelves are home to a wild mix including the Simpsons House, the Yellow Submarine, and Rivendell. Up next? Conquering Sauron’s Tower and Bag End.
+
+- 💍 **Middle-earth Resident**: My favorite trilogy is The Lord of the Rings! (Extended editions only, obviously). I can navigate the path to Mount Doom better than a GPS.
+
+- 🧘‍♀️ **Zen Mode**: Tai Chi! It’s my favorite way to slow down and find my "zen" when life gets a little too fast.
+</details>
+<br>
+
+---
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/a11y-%23005A9C.svg?style=for-the-badge&logo=w3c&logoColor=white" alt="Accessibility" />
+</p>
+
+---
+
+## Say Hi!
+
+<a href="https://mariana-martins.github.io/">
+  <img align="center" src="images/Globe Icon.svg" alt="Visit my website" width="24" height="24" />
+  <big>Visit my website</big>
+</a>
+<br>
+<br>
+<a href="mailto:marianamartinsmenezes@gmail.com">
+  <img align="center" src="images/Icons from Lucide.svg" alt="Send me an email" width="24" height="24" />
+  <big>Send me an email</big>
+</a>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/marianamenezes/">
+  <img align="center" src="images/At Sign Icon.svg" alt="Connect with me on LinkedIn" width="24" height="24" />
+  <big>Connect with me on LinkedIn</big>
+</a>

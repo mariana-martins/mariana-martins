@@ -23,20 +23,20 @@ My background in History is my "secret weapon." It gives me a unique lens for te
 
 ### Say Hi!
 
-<img align="center" src="images/Globe Icon.svg" alt="Visit my website" width="24" height="24" />
 <a href="https://mariana-martins.github.io/">
+  <img align="center" src="images/Globe Icon.svg" alt="Visit my website" width="24" height="24" />
   <big>Visit my website</big>
 </a>
 <br>
 <br>
-<img align="center" src="images/Icons from Lucide.svg" alt="Send me an email" width="24" height="24" />
 <a href="mailto:marianamartinsmenezes@gmail.com">
+  <img align="center" src="images/Icons from Lucide.svg" alt="Send me an email" width="24" height="24" />
   <big>Send me an email</big>
 </a>
 <br>
 <br>
-<img align="center" src="images/At Sign Icon.svg" alt="Connect with me on LinkedIn" width="24" height="24" />
 <a href="https://www.linkedin.com/in/marianamenezes/">
+  <img align="center" src="images/At Sign Icon.svg" alt="Connect with me on LinkedIn" width="24" height="24" />
   <big>Connect with me on LinkedIn</big>
 </a>
 <br>

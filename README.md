@@ -2,7 +2,7 @@
 
 # Hello, I am Mari! 🙋‍♀️
 
-I am a Frontend Engineer with more than 5 years of experience, based in Melbourne, Australia. I'm specialized in building inclusive, web applications with a focus on React, TypeScript, and modern CSS architecture.
+I am a Frontend & Design Engineer with more than 5 years of experience, based in Melbourne, Australia. I'm specialized in building inclusive, web applications with a focus on React, TypeScript, and modern CSS architecture.
 
 My background in History is my "secret weapon." It gives me a unique lens for technical documentation and a deep-seated empathy for the human stories behind the screens. I don't just build UI: I build sustainable, accessible systems designed to stand the test of time. My goal is to translate complex logic into intuitive journeys, anticipating a user's needs just as a teacher anticipates a student's question. I’m here to ensure that everyone, regardless of how they navigate the web, feels empowered and guided.
 

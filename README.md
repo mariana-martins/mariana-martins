@@ -1,4 +1,4 @@
-<img align="center" alt="Mariana Martins Menezes | Frontend Developer" src="https://github.com/mariana-martins/mariana-martins/raw/master/images/logo2.png" />
+<img align="center" alt="Mariana Martins Menezes | Frontend Developer" src="https://github.com/mariana-martins/mariana-martins/raw/master/images/logo.png" />
 
 # Hello, I am Mari! 🙋‍♀️
 
